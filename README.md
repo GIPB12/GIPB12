@@ -119,7 +119,7 @@ My main contributions include **developing CCQM's corporate website using React 
 ## 📫 Contato | Contact
 
 - **GitHub:** [github.com/GIPB12](https://github.com/GIPB12)
-- **LinkedIn:** [github.com/GIPB12](www.linkedin.com/in/giovanni-bonifatto)
+- **LinkedIn:** [linkedin.com/in/giovanni-bonifatto](www.linkedin.com/in/giovanni-bonifatto)
 
 ---
 
